@@ -47,7 +47,7 @@ html,body{
     font-size: 40px;
 
 }
-#nav-part2 button{
+#nav-part2 a{
     padding: 10px 15px;
     font-size: 15px;
     font-weight: 700;
@@ -55,6 +55,7 @@ html,body{
     border-radius: 8px;
     background-color: #fff;
     color: #000;
+    text-decoration: none;
 
 }
 #nav h1{

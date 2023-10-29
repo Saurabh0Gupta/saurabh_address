@@ -1,3 +1,7 @@
+@font-face {
+    font-family: gilroy;
+    src: url(./Gilroy-Black.otf);
+}
 *{
     margin: 0%;
     padding: 0%;
